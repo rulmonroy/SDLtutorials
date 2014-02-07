@@ -5,6 +5,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL_tutorial", "SDL_tutoria
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_02", "Lesson_02\Lesson_02.vcxproj", "{6506391B-6794-4CCA-8BE2-46837C74E814}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_03", "Lesson_03\Lesson_03.vcxproj", "{1A0654F4-722D-4024-B059-8261BEE343B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_04", "Lesson_04\Lesson_04.vcxproj", "{64051858-BEC1-4BB8-96D9-123FBFCDB6A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +23,14 @@ Global
 		{6506391B-6794-4CCA-8BE2-46837C74E814}.Debug|Win32.Build.0 = Debug|Win32
 		{6506391B-6794-4CCA-8BE2-46837C74E814}.Release|Win32.ActiveCfg = Release|Win32
 		{6506391B-6794-4CCA-8BE2-46837C74E814}.Release|Win32.Build.0 = Release|Win32
+		{1A0654F4-722D-4024-B059-8261BEE343B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A0654F4-722D-4024-B059-8261BEE343B7}.Debug|Win32.Build.0 = Debug|Win32
+		{1A0654F4-722D-4024-B059-8261BEE343B7}.Release|Win32.ActiveCfg = Release|Win32
+		{1A0654F4-722D-4024-B059-8261BEE343B7}.Release|Win32.Build.0 = Release|Win32
+		{64051858-BEC1-4BB8-96D9-123FBFCDB6A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64051858-BEC1-4BB8-96D9-123FBFCDB6A3}.Debug|Win32.Build.0 = Debug|Win32
+		{64051858-BEC1-4BB8-96D9-123FBFCDB6A3}.Release|Win32.ActiveCfg = Release|Win32
+		{64051858-BEC1-4BB8-96D9-123FBFCDB6A3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
